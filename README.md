@@ -8,6 +8,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 - 📍 From Curvelo-MG and living in Divinópolis-MG.
 - 📈 Developer of robots and strategies for speculation in the foreign exchange market, especially in yen pairs.
+- ₿ Bitcoin Investor.
 
  Get in touch 👇🏼
  
