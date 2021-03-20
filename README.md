@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, how are you?👋
 
-<!--
-**fco3lho/fco3lho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felipe Campos. 🧑🏻
 
-Here are some ideas to get you started:
+I'm a student of Computer Engineering at CEFET-MG and I have been in this life full of coffee and codes since the beginning of 2020. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+
+- 📍 From Curvelo-MG and living in Divinópolis-MG
+- 📈 Developer of robots and strategies for speculation in the foreign exchange market, especially in yen pairs.
+
+ Get in touch 👇🏼
+[
+![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fco3lho/)](https://www.instagram.com/fco3lho/)
