@@ -12,7 +12,6 @@ I'm passionate about solving problems and learning. Always open to new challenge
  Get in touch 👇🏼
  
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fco3lho/)](https://www.instagram.com/fco3lho/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeolicampos@hotmail.com)](mailto:felipeolicampos@hotmail.com)
-[![Linkedin Badge]((https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/felipe-campos-3a8a24201/)]
-(https://www.linkedin.com/in/felipe-campos-3a8a24201/)
+[![Email Badge](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeolicampos@hotmail.com)](mailto:felipeolicampos@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Campos-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-campos-3a8a24201/)](https://www.linkedin.com/in/felipe-campos-3a8a24201/) 
 
