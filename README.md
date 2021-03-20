@@ -10,5 +10,6 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 📈 Developer of robots and strategies for speculation in the foreign exchange market, especially in yen pairs.
 
  Get in touch 👇🏼
+ 
 [
 ![Instagram Badge](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fco3lho/)](https://www.instagram.com/fco3lho/)
