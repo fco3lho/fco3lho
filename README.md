@@ -2,7 +2,7 @@
 
 My name is Felipe Campos. 🧑🏻
 
-I'm a student of Computer Engineering at CEFET-MG and I have been in this life full of coffee and codes since the beginning of 2020. 💻
+I'm a student of Computer Engineering at CEFET-MG and I've been in this code life since the beginning of 2020. 💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
