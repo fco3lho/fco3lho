@@ -7,7 +7,7 @@ I'm a student of Computer Engineering at CEFET-MG and I've been in this code lif
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
 - 📍 From Curvelo-MG and living in Divinópolis-MG.
-- 📈 Developer of robots and strategies for speculation in the foreign exchange market, especially in yen pairs.
+- 📈 Application developer for automation and strategies for speculation in the foreign exchange market, especially in yen pairs.
 
  Get in touch 👇🏼
  
