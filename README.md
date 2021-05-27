@@ -1,6 +1,6 @@
 ## Hello, how are you?
 
-My name is Felipe Campos. I am a student of Computer Engineering at CEFET Campus V.
+My name is Felipe Campos. I have 19 years old and I am a student of Computer Engineering at CEFET Campus V.
 
 📍 From Curvelo-MG and living in Divinópolis-MG.
 
