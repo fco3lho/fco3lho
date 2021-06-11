@@ -7,7 +7,7 @@ My name is Felipe Campos. I have 19 years old and I'm a student of Computer Engi
  <p></p>
 <div>
   <a href="https://github.com/fco3lho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco3lho&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco3lho&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
  
  <p></p>
