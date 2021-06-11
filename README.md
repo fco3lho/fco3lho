@@ -4,7 +4,14 @@ My name is Felipe Campos. I have 19 years old and I'm a student of Computer Engi
 
 📍 From Curvelo-MG and living in Divinópolis-MG.
 
- Contact 👇🏼
+ <p></p>
+<div>
+  <a href="https://github.com/fco3lho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco3lho&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+ 
+ <p></p>
+<p>Contact 👇🏼</p>
  
 [![Instagram Badge](https://img.shields.io/badge/-Instragram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fco3lho/)](https://www.instagram.com/fco3lho/)
 [![Email Badge](https://img.shields.io/badge/-Email-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeolicampos@hotmail.com)](mailto:felipeolicampos@hotmail.com)
