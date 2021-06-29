@@ -1,5 +1,3 @@
-## Hello, how are you?
-
 🖥️ Computer Engineering Student at CEFET-MG.
 
 📍 From Curvelo-MG and living in Divinópolis-MG.
