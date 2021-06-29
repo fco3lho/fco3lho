@@ -1,6 +1,6 @@
 ## Hello, how are you?
 
-My name is Felipe Campos. I have 19 years old and I'm a student of Computer Engineering.
+🖥️ Computer Engineering Student at CEFET-MG.
 
 📍 From Curvelo-MG and living in Divinópolis-MG.
 
