@@ -3,6 +3,7 @@
 <ul>
   <li>📚 Computer Engineering Student at <a href="https://www.cefetmg.br">CEFET-MG</a>.</li>
   <li>🌎 Living in Divinópolis-MG.</li>
+  <li>📈 Passionate about blockchain, cryptocurrencies, decentralization and economics.</li>
   <li>🖥️ Currently studying technologies for web development.</li> 
 </ul>
 
