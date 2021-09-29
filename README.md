@@ -1,27 +1,25 @@
-<h2 align="center"> 👋 Hey, I'm Felipe Campos! </h2>
+<h3 align="center"> 👤 Hey, I'm Felipe Campos! </h3>
 
 <ul>
-  <li>📚 Computer Engineering Student at <a href="https://www.cefetmg.br">CEFET-MG</a>.</li>
-  <li>🌎 Living in Divinópolis-MG.</li>
-  <li>📈 Passionate about blockchain, cryptography, decentralization and economics.</li>
-  <li>🖥️ Currently studying technologies for web development.</li> 
+  <li>📚 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br">CEFET-MG</a>.</li>
+  <li>🌎 Living in <strong>Divinópolis-MG</strong>.</li>
+  <li>🖥️ Currently studying technologies for <strong>web development front-end</strong>.</li>
+  <li>
+    📞 My contacts:
+    <ul>
+      <li><a href="https://instagram.com/fco3lho" target="_blank">Instagram</a></li>
+      <li><a href="https://www.linkedin.com/in/fco3lho" target="_blank">LinkedIn</a></li>
+      <li><a href="mailto:felipecampos50123@gmail.com" target="_blank">Email</a></li>
+      <li><a href="https://t.me/felptelegram" target="_blank">Telegram</a></li>
+    </ul>
+  </li>
 </ul>
 
 ##
+<h3 align="center">⭐ Github stats</h3>
+
 <div align="center">
   <a href="https://github.com/fco3lho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fco3lho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco3lho&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco3lho&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fco3lho&theme=dracula&hide_border=true"/>
 </div>
-
-##
-<h4 align="center"> Contacts </h4>
-<div align="center"> 
-  <a href="https://instagram.com/fco3lho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/fco3lho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:felipecampos50123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/felptelegram" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%235577B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</div>
-
-
-
