@@ -7,10 +7,8 @@
   <li>
     📞 My contacts:
     <ul>
-      <li><a href="https://instagram.com/fco3lho" target="_blank">Instagram</a></li>
       <li><a href="https://www.linkedin.com/in/fco3lho" target="_blank">LinkedIn</a></li>
       <li><a href="mailto:felipecampos50123@gmail.com" target="_blank">Email</a></li>
-      <li><a href="https://t.me/beH52gSBm73" target="_blank">Telegram</a></li>
     </ul>
   </li>
 </ul>
