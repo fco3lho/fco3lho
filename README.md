@@ -3,7 +3,7 @@
 <ul>
   <li>📚 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br">CEFET-MG</a>.</li>
   <li>🌎 Living in <strong>Divinópolis-MG</strong>.</li>
-  <li>🖥️ Currently studying technologies for <strong>web development front-end</strong>.</li>
+<!--   <li>🖥️ Currently studying technologies for <strong>web development front-end</strong>.</li> -->
   <li>
     📞 My contacts:
     <ul>
