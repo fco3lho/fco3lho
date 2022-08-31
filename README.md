@@ -21,11 +21,3 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco3lho&layout=compact&langs_count=7&theme=prussian&hide_border=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=fco3lho&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true"
 </div>
-
-##
-<div>
-  <h3 align="center">Total de visitas ao perfil</h3>
-  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/fco3lho/count.svg" />
- </p>
-</div>
