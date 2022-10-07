@@ -5,7 +5,7 @@
 <ul align="left">
   <li>📚 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br">CEFET-MG</a>.</li>
   <li>🌎 Living in <strong>Divinópolis-MG</strong>.</li>
-  <li>🖥️ Currently studying technologies for <strong>Developement Operations</strong> with <a href="https://go.dev">Go</a>.</li>
+  <li>🖥️ Currently studying technologies for <strong>Development Operations</strong> with <a href="https://go.dev">Go</a>.</li>
   <li>
     📞 My contacts:
     <ul>
