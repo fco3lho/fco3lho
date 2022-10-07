@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador fco3lho">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador fco3lho"> -->
 
 <h3 align="center"> 👤 Hey, I'm Felipe Campos! </h3>
 
 <ul align="left">
   <li>📚 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br">CEFET-MG</a>.</li>
   <li>🌎 Living in <strong>Divinópolis-MG</strong>.</li>
-<!--   <li>🖥️ Currently studying technologies for <strong>web development front-end</strong>.</li> -->
+  <li>🖥️ Currently studying technologies for <strong>Developement Operations</strong> with <a href="https://go.dev">Go</a>.</li>
   <li>
     📞 My contacts:
     <ul>
@@ -18,7 +18,7 @@
 ##
 <h3 align="center">🔧 Linguagens e ferramentas</h3>
 
-<div style="display: inline_block"><br>
+<div display="flex" align="center"><br>
 
   <a href="https://devdocs.io/c/">
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
