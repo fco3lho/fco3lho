@@ -16,7 +16,7 @@
 </ul>
 
 ##
-<h3 align="center">🔧 Linguagens e ferramentas</h3>
+<h3 align="center">🔧 Languages and tools</h3>
 
 <div display="flex" align="center"><br>
 
