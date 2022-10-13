@@ -31,7 +31,7 @@
  <a href="https://www.python.org">
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
  </a>
- 
+ <!--
  <a href="https://jupyter.org">
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
  </a>
@@ -39,7 +39,7 @@
  <a href="https://go.dev">
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
  </a>
-  
+  -->
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   </a>
