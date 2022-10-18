@@ -5,7 +5,6 @@
 <ul align="left">
   <li>📚 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br">CEFET-MG</a>.</li>
   <li>🌎 Living in <strong>Divinópolis-MG</strong>.</li>
-<!--  <li>🖥️ Currently studying technologies for <strong>Development Operations</strong> with <a href="https://go.dev">Go</a>.</li> -->
   <li>
     📞 My contacts:
     <ul>
@@ -21,27 +20,27 @@
 <div display="flex" align="center"><br>
 
   <a href="https://devdocs.io/c/">
-    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   </a>
   
   <a href="https://cplusplus.com">
-    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   </a>
   
  <a href="https://www.python.org">
-    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  </a>
  
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  </a>
  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   </a>
   
   
