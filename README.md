@@ -32,6 +32,10 @@
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  </a>
  
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ </a>
+ 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   </a>
@@ -40,10 +44,11 @@
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   </a>
   
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  </a>
- 
+  
+  
+  
+  
+<!--  
  <a href="https://git-scm.com">
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  </a>
@@ -55,7 +60,7 @@
   <a href="https://ubuntu.com/download">
     <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   </a>
-  
+ --> 
 </div>
 
 ##
