@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador fco3lho"> -->
 
-<h3 align="center"> 👤 Hey, I'm Felipe Campos! </h3>
+<h3 align="center"> 👋 Hi, i'm Felipe Campos! </h3>
 
 <ul align="left">
   <li>📚 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br">CEFET-MG</a>.</li>
