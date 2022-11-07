@@ -1,4 +1,4 @@
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador fco3lho"> -->
+<img src="./img/computer-illustration.png" min-width="300px" max-width="500px" width="400px" align="right">
 
 <h3 align="center"> 👋 Hi, i'm Felipe Campos! </h3>
 
