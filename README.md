@@ -34,7 +34,7 @@
 ---          
 
 
-<h3 align="center">⭐ Github stats</h3>
+<h3 align="center">⭐ Github stats</h3> 
 
 <div align="center">
   <a href="https://github.com/fco3lho">
