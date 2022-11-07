@@ -14,59 +14,30 @@
   </li>
 </ul>
 
-##
-<h3 align="center">🔧 Languages and tools</h3>
 
-<div display="flex" align="center"><br>
+---
 
-  <a href="https://devdocs.io/c/">
-    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
-  </a>
-  
-  <a href="https://cplusplus.com">
-    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
-  </a>
-  
- <a href="https://www.python.org">
-    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- </a>
- 
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
- </a>
- 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  </a>
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img align="center" height="35" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  </a>
-  
-  
-  
-  
-  
-<!--  
- <a href="https://git-scm.com">
-    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
- </a>
- 
- <a href="https://github.com">
-    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
- </a>
- 
-  <a href="https://ubuntu.com/download">
-    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
-  </a>
- --> 
-</div>
 
-##
+<h3 align="center">🔧 Skills</h3>
+
+- Languages: <img align="center" height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++"/> <img align="center" height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/> <img align="center" height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
+
+- Frameworks: <img align="center" height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+
+- Web tools: <img align="center" height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5"/> <img align="center" height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3"/>
+
+- Versioning: <img align="center" height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> <img align="center" height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github"/>
+
+- Studying: <img align="center" height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS"/> <img align="center" height="30rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+
+
+---          
+
+
 <h3 align="center">⭐ Github stats</h3>
 
 <div align="center">
   <a href="https://github.com/fco3lho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco3lho&layout=compact&langs_count=6&theme=prussian&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fco3lho&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fco3lho&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true">
 </div>
