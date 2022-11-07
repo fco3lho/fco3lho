@@ -1,4 +1,4 @@
-<img src="./img/computer-illustration.png" min-width="300px" max-width="400px" width="400px" align="right">
+<img src="./img/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
 <h3 align="center"> 👋 Hi, i'm Felipe Campos! </h3>
 
@@ -8,8 +8,8 @@
   <li>
     📞 My contacts:
     <ul>
-      <li><a href="https://www.linkedin.com/in/fco3lho" target="_blank">LinkedIn</a></li>
-      <li><a href="mailto:felipecampos50123@gmail.com" target="_blank">Email</a></li>
+      <li><a href="https://www.linkedin.com/in/fco3lho" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></li>
+      <li><a href="mailto:felipecampos50123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></li>
     </ul>
   </li>
 </ul>
