@@ -1,4 +1,4 @@
-<img src="./img/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right">
+<img src="./img/computer-illustration.png" min-width="300px" max-width="450px" width="450px" align="right">
 
 <h3 align="center"> 👋 Hi, i'm Felipe Campos! </h3>
 
