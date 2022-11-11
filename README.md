@@ -37,7 +37,6 @@
 <h3 align="center">⭐ Github stats</h3> 
 
 <div align="center">
-  <a href="https://github.com/fco3lho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco3lho&layout=compact&langs_count=6&theme=prussian&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fco3lho&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fco3lho&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true"/>
 </div>
