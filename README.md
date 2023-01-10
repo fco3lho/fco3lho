@@ -1,6 +1,6 @@
-<img src="./img/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
-
 <h3 align="center"> 👋 Hi, i'm Felipe Campos! </h3>
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
 
 <ul align="left">
   <li>📚 <strong>Computer Engineering</strong> student at <a href="https://www.cefetmg.br">CEFET-MG</a>.</li>
@@ -16,6 +16,11 @@
       <li>
         <a href="mailto:felipecampos50123@gmail.com" target="_blank">
           <img align="center" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white"/>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/fco3lho/" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
         </a>
       </li>
     </ul>
