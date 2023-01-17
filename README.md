@@ -35,9 +35,9 @@
 <h3 align="center">🔧 Technologies</h3>
 
 - Languages and frameworks: 
-  <img align="center" height="30rem" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> 
-  <img align="center" height="30rem" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
-  <img align="center" height="30rem" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img align="center" height="30rem" src="https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> 
+  <img align="center" height="30rem" src="https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript"/>
+  <img align="center" height="30rem" src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
  
 - Database:
   <img align="center" height="30rem" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/> 
@@ -47,8 +47,8 @@
   <img align="center" height="30rem" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/> 
 
 - Others tools: 
-  <img align="center" height="30rem" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
-  <img align="center" height="30rem" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img align="center" height="30rem" src="https://img.shields.io/badge/HTML5-E24C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
+  <img align="center" height="30rem" src="https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 
 
