@@ -5,7 +5,7 @@
     <a href="https://cplusplus.com/doc/tutorial/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="35"/></a>
     <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/></a>
-    <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/></a>
+    <a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/></a>
     <a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/></a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/></a>
