@@ -1,40 +1,16 @@
-<h3 align="center">⭐ Github stats</h3> 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fco3lho/)](https://www.linkedin.com/in/fco3lho/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-3333cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipecampos50123@gmail.com)](mailto:felipecampos50123@gmail.com)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco3lho&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fco3lho&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/>
+- 👩‍💻 Data Engineer @ [Indicium](https://www.indicium.tech)
+- 🏆 AWS Certified
+- 🎓 Undergraduate in Computer Engineering
+- 🚀 Skills:
+  - Languages: Python, HCL
+  - Infrastructure: AWS, Docker, Terraform
+  - Databases: Snowflake, PostgreSQL, MySQL
+  - Orchestration: Airflow
+  - Transformation: Meltano
+
+<div align="left">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fco3lho&layout=compact&hide_border=true&title_color=3333cc&text_color=ffffff&bg_color=0d1117" />
 </div>
-
----
-
-<h3 align="center">🔧 My skills</h3>
-
-<div align="center">
-  
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  
-</div>
-
-
-
-
-          
-     
-
-
