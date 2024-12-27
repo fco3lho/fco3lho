@@ -3,7 +3,7 @@
 
 - 👩‍💻 Data Engineer @ [Indicium](https://www.indicium.tech)
 - 🏆 AWS Certified
-- 🎓 Undergraduate in Computer Engineering
+- 🎓 Computer Engineering @ [CEFET-MG](https://www.cefetmg.br/)
 - 🚀 Skills:
   - Languages: Python, HCL, Bash
   - Infrastructure: AWS, Docker, Terraform
