@@ -5,7 +5,7 @@
 - 🏆 AWS Certified
 - 🎓 Undergraduate in Computer Engineering
 - 🚀 Skills:
-  - Languages: Python, HCL
+  - Languages: Python, HCL, Bash
   - Infrastructure: AWS, Docker, Terraform
   - Databases: Snowflake, PostgreSQL, MySQL
   - Orchestration: Airflow
