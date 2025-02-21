@@ -9,4 +9,4 @@
   - **Infrastructure:** AWS, Docker, Terraform
   - **Databases:** Snowflake, PostgreSQL, MySQL
   - **Orchestration:** Airflow
-  - **Other tools:** Meltano
+  - **Other tools:** Meltano, Databricks
